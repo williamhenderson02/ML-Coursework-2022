@@ -1,4 +1,4 @@
-Edibility,Cap Shape,Cap Surface,Cap Color,Bruises,Odor,Gill Attachment,Gill Spacing,Gill Size,Gill Color,Stalk Shape,Stalk Root,Stalk Surface Above Ring,Stalk Surface Below Ring,Stalk Color Above Ring,Stalk Color Below Ring,Veil Type,Veil Color,Ring Number,Ring Type,Spore Print Color,Population,Habitat
+edibility,capShape,capSurface,capColor,bruises,odor,gillAttachment,gillSpacing,gillSize,gillColor,stalkShape,stalkRoot,stalkSurfaceAboveRing,stalkSurfaceBelowRing,stalkColorAboveRing,stalkColorBelowRing,veilType,veilColor,ringNumber,ringType,sporePrintColor,population,habitat
 e,x,s,y,t,a,f,c,b,k,e,c,s,s,w,w,p,w,o,p,n,n,g
 e,b,s,w,t,l,f,c,b,n,e,c,s,s,w,w,p,w,o,p,n,n,m
 p,x,y,w,t,p,f,c,n,n,e,e,s,s,w,w,p,w,o,p,k,s,u
